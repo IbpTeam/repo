@@ -2,7 +2,7 @@
 
 ## repo default configuration
 ##
-REPO_URL = 'git@124.16.141.145:ibp/repo.git'
+REPO_URL = 'git@github.com:ibp/repo.git'
 REPO_REV = 'stable'
 
 # Copyright (C) 2008 Google Inc.
